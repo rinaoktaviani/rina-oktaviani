@@ -1,5 +1,5 @@
 body {
-  background : url(background.jpg);
+  background : url(abab.jpg);
   }
   
 #content {
@@ -79,9 +79,10 @@ a    {
    color: white;
    }   
 a:hover {
-   color: yellow;
+   color: blue;
    }  
 
 a:visited {
     color: black;
     }
+   
